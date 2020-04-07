@@ -1,0 +1,7 @@
+import UIKit
+
+let stringArray = ["a", "b", "c", "d"]
+
+var randomStringArray = stringArray.randomElement()
+
+print(randomStringArray)
